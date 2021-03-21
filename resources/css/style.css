@@ -16,7 +16,7 @@ h1,h2 {
     color: white;
 }
 
-.bodyText {
+.bodyText { /* Excursion remembers places you like */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
@@ -38,7 +38,7 @@ video,img{
     display: block;
     margin-top: 15px;
 }
-#excursionLogo {
+#excursionLogo { /* bottom logo */
     text-align: right;
     color: gray;
     font-size: 21px;
